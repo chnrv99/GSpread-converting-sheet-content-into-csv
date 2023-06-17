@@ -1,5 +1,6 @@
 import gspread
 
+# create the service account in developers google website
 email = 'gspread-account-84@forward-quanta-390017.iam.gserviceaccount.com'
 print('Email is:',email, ' Add the email to the sharing link')
 
